@@ -34,7 +34,7 @@
     </developers>
 
     <properties>
-        <karaf.version>3.0.8</karaf.version>
+        <karaf.version>4.2.9</karaf.version>
         <!-- maven-compiler-plugin setting.
              Karaf 3 runs on Java 7 or later -->
         <!-- Specific Maven Plugin Versions -->
